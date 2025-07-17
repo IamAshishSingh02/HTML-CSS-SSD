@@ -26,13 +26,6 @@ A beginner-friendly web development project built with **HTML** and **CSS**. Thi
 
 ---
 
-## 📸 Screenshots
-
-<!-- Replace with your actual screenshots once added -->
-> _Add project screenshots here for visual representation (optional)._
-
----
-
 ## 🧠 What I Learned
 
 - How to structure a basic HTML page  
