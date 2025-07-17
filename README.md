@@ -14,17 +14,6 @@ A beginner-friendly web development project built with **HTML** and **CSS**. Thi
 
 ---
 
-## 📁 Folder Structure
-
-HTML-CSS-SSD/
-├── index.html
-├── style.css
-├── README.md
-└── assets/
-└── images/
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5  
